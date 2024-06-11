@@ -1,0 +1,8 @@
+{
+  "realm": "easy_transfer_realm",
+  "auth-server-url" : "http://localhost:8180",
+  "resource" : "ftl-login",
+  "credentials": {
+    "secret": "DWPPngoxaQwH3S9AjNBd5xvWiq5OvWpl"
+  }
+}
